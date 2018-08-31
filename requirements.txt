@@ -1,3 +1,4 @@
 aiohttp
 selenium
 pyyaml
+pika
