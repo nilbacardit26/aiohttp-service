@@ -2,3 +2,5 @@ aiohttp
 selenium
 pyyaml
 pika
+aioamqp
+backoff
